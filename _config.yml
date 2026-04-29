@@ -1,1 +1,15 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: urban ag STL mapping 
+email: rachel.opitz@taylorgeospatial.org
+description: > # this means to ignore newlines until "baseurl:"
+  Pages for sample maps for use as discussion prompts in workshops
+baseurl: "/index" # the subpath of your site, e.g. /blog/
+url: "http://ropitz.github.io" # the base hostname & protocol for your site
+github_username:  ropitz
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
