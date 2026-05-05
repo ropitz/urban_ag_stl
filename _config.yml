@@ -2,7 +2,7 @@
 title: "Urban Agriculture STL Workshop"
 email: "rachel.opitz@taylorgeospatial.org"
 description: > # this means to ignore newlines until "baseurl:"
-  Pages for sample maps for use as discussion prompts in workshops
+  Modeling and Maps to Seed Conversations
 baseurl: "/urban_ag_stl"
 url: "https://ropitz.github.io"
 theme: jekyll-theme-cayman
