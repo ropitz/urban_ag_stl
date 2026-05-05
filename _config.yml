@@ -3,9 +3,8 @@ title: "Urban Agriculture STL Workshop"
 email: "rachel.opitz@taylorgeospatial.org"
 description: > # this means to ignore newlines until "baseurl:"
   Pages for sample maps for use as discussion prompts in workshops
-baseurl: "/index/" # the subpath of your site, e.g. /blog/
-url: "http://ropitz.github.io/" # the base hostname & protocol for your site
-github_username:  "ropitz"
+baseurl: "/urban_ag_stl"
+url: "https://ropitz.github.io"
 
 # Build settings
 markdown: kramdown
